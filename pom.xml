@@ -68,6 +68,15 @@
       <artifactId>spring-orm</artifactId>
       <version>5.3.16</version>
     </dependency>
+
+    <!-- https://mvnrepository.com/artifact/org.aspectj/aspectjweaver -->
+    <dependency>
+      <groupId>org.aspectj</groupId>
+      <artifactId>aspectjweaver</artifactId>
+      <version>1.9.8</version>
+    </dependency>
+
+
   </dependencies>
 
   <build>
